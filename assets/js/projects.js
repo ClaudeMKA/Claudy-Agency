@@ -47,8 +47,15 @@ const projectsData = [
         "image": "./assets/images/kb-batiment.png",
         "description": "Ce projet consiste à concevoir un site vitrine pour mettre en avant les services de construction proposés par une société spécialisée dans le domaine du bâtiment. Le site présente de manière attrayante les compétences de l'équipe, les réalisations passées et les différents types de projets réalisés. Visitez le lien pour découvrir le site vitrine.",
         "link": "https://kb-batiment.fr/"
+    },
+    {
+        "id": 7,
+        "title": "Création d'un Site Vitrine,blog pour l'association adhandeveloppement ",
+        "subtitle": "Site blog",
+        "image": "./assets/images/adhan.png",
+        "description": "Ce projet consiste à concevoir un site vitrine pour l'association Adhan Développement. L'objectif est de mettre en avant les actions humanitaires de l'association en Éthiopie, notamment dans les domaines de l'éducation, de l'accès à l'eau, de la santé, et de l'alimentation. Le site présente les initiatives de l'association, les réalisations passées, et les projets à venir, tout en offrant une plateforme pour le soutien et les dons.",
+        "link": "https://adhandeveloppement.org/"
     }
-
 
     // Ajoute les données des autres projets ici...
 ];
